@@ -72,5 +72,7 @@
 <br />
 
 <div align="center" style="display: flex;justify-content: center;">
-  <p style="display: flex;align-items: center;margin: 0;">你是第&nbsp;<img src="https://profile-counter.glitch.me/doydi/count.svg?" style="display: inline;margin: 0 auto;" />个看到这的靓仔/妹！😮</p>
+  
+  <p style="display: flex;align-items: center;margin: 0;position: relative;">这么多靓仔/妹看到了！<img src="https://komarev.com/ghpvc/?username=doydi&label=😮&style=for-the-badge" style="display: inline;margin: 0 auto;position: absolute;top: -0.125rem;" /></p>
+  
 </div>
