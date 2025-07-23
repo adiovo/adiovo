@@ -16,7 +16,7 @@
 ### 联系方式（Find me）
 **Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=agxm.fun) <br />
 **Tencent WeChat：** cd-digital <br />
-**X（Twitter）：** [@Adiovo](https://x.com/adiovolia) <br />
+**X（Twitter）：** [@adiovolia](https://x.com/adiovolia) <br />
 **Mail：** <adiovolia@gmail.com> <br />
 
 
