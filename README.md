@@ -1,8 +1,5 @@
-<!-- ## Hello there！ 👋 -->
-### 关于我（About me）
-自认为算得上一枚合格的FE ~~Buger~~ ～<br /> 
-
-热爱计算鸡，热爱前端，喜欢捣腾计算鸡内的所有花里胡哨～ <br />
+### 我（About me）👋
+自认为算得上一枚合格的计算鸡爱好者，不合格的 ~~Buger~~ FEer～<br /> 
 
 在[博客](https://agxm.fun)这里会记录我所遇到或正在进行的一些工作或技术上的事情，问题的思考以及日常生活等。
 
@@ -19,8 +16,8 @@
 ### 联系方式（Find me）
 **Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=agxm.fun) <br />
 **Tencent WeChat：** cd-digital <br />
-**X（Twitter）：** [@dd_lcd](https://x.com/dd_lcd) <br />
-**Mail：** <doydiovo@gmail.com> <br />
+**X（Twitter）：** [@Adiovo](https://x.com/adiovolia) <br />
+**Mail：** <adiovolia@gmail.com> <br />
 
 
 ### 已点亮的技能栏（Technology Stack）
@@ -67,10 +64,10 @@
 <a href="https://" title=""><img src="https://skillicons.dev/icons?i=git" alt="git logo" style="margin: 0 auto;" /></a>
 -->
 
-<img src="https://raw.githubusercontent.com/doydi/doydi/output/snake.svg" alt="Snake animation" style="margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/adiovo/adiovo/output/snake.svg" alt="Snake animation" style="margin: 0 auto;" />
 
 <br />
 
 <p align="center">这么多靓仔/妹看到了！
-  <img src="https://komarev.com/ghpvc/?username=doydi&label=😮&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=adiovo&label=😮&style=for-the-badge" />
 </p>
