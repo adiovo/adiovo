@@ -23,14 +23,18 @@
 
 ### 已点亮的技能栏（Technology Stack）
 
-<div align="left" style="display: flex;align-items: center;">
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
+  <img width="12" style="margin: 0 auto;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" style="margin: 0 auto;" /></a>
+  <img width="12" style="margin: 0 auto;" />
   <a href="https://www.npmjs.com" title="npmjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
-  <a href="https://classic.yarnpkg.com/en/" title="yarn" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" style="margin: 0 auto;" /></a>
+  <a href="https://yarnpkg.com/" title="yarn" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
   <a href="https://pnpm.io" title="pnpm" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm logo" style="margin: 0 auto;" /></a>
-  <img width="12" style="margin: 0 auto;" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="javascript logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
   <a href="https://www.typescriptlang.org" title="TypeScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
@@ -42,17 +46,17 @@
   <img width="12" style="margin: 0 auto;" />
   <a href="https://vitejs.dev" title="Vite" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vite" alt="vite logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
-  <a href="#" title="webpack" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack logo" style="margin: 0 auto;" /></a>
+  <a href="https://webpack.js.org/" title="webpack" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
-  <a href="#" title="gulp" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=gulp" alt="gulp logo" style="margin: 0 auto;" /></a>
+  <a href="https://gulpjs.com/" title="gulp" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=gulp" alt="gulp logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
-  <a href="#" title="docker" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=docker" alt="docker logo" style="margin: 0 auto;" /></a>
+  <a href="https://www.docker.com/" title="docker" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=docker" alt="docker logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
-  <a href="#" title="jenkins" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" style="margin: 0 auto;" /></a>
+  <a href="https://www.jenkins.io/" title="jenkins" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" style="margin: 0 auto;" /></a>
+  <!-- GitHub Readme内使用skillicons.dev下的icons单行数量保持15个最佳，来兼容换行的样式 -->
+  <a href="https://www.debian.org/" title="Debian Linux" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=debian" alt="debian logo" style="margin: 0 auto;" /></a>
   <img width="12" style="margin: 0 auto;" />
-  <a href="#" title="linux" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=linux" alt="linux logo" style="margin: 0 auto;" /></a>
-  <img width="12" style="margin: 0 auto;" />
-  <a href="#" title="nginx" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx logo" style="margin: 0 auto;" /></a>
+  <a href="https://nginx.org/" title="nginx" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx logo" style="margin: 0 auto;" /></a>
 </div>
 
 <!--
