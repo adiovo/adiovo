@@ -17,7 +17,7 @@
 ### 联系方式（Find me）
 **Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=agxm.fun) <br />
 **Tencent WeChat：** cd-digital <br />
-**X（Twitter）：** [@atuanovo](https://x.com/atuanovo) <br />
+**X（Twitter）：** [@adiovo](https://x.com/adi_ovo) <br />
 **Mail：** <atuanovo@gmail.com> <br />
 
 
