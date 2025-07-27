@@ -1,7 +1,7 @@
 ### 我（About me）👋
 自认为算得上一枚合格的计算鸡爱好者，不合格的 ~~Buger~~ FEer～<br /> 
 
-在[博客](https://agxm.fun)这里会记录我所遇到或正在进行的一些工作或技术上的事情，问题的思考以及日常生活等。
+在[博客](https://adiovo.cc)这里会记录我所遇到或正在进行的一些工作或技术上的事情，问题的思考以及日常生活等。
 
 博客风仿[Anthony Fu](https://antfu.me)，基于[Nuxt 3](https://nuxt.com) + [UnoCSS](https://unocss.dev) + [PM 2](https://pm2.keymetrics.io)等技术栈生成部署的SSR应用。
 
@@ -15,15 +15,15 @@
 
 
 ### 联系方式（Find me）
-**Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=agxm.fun) <br />
+**Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=adiovo.cc) <br />
 **Tencent WeChat：** cd-digital <br />
 **X（Twitter）：** [@adi_ovo](https://x.com/adi_ovo) <br />
 **E-mail：** <email@adiovo.cc> <br />
 
 
 ### 已点亮的技能栏（Technology Stack）
-
-<div align="left">
+<!-- 下述语法内的样式效果在gh的md是不生效的，主要是使其在adiovo.cc的样式能保持一致~ -->
+<div align="left" style="display: flex;align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
   <img width="2" style="margin: 0 auto;" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
