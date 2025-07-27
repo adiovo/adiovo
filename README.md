@@ -18,7 +18,7 @@
 **Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=agxm.fun) <br />
 **Tencent WeChat：** cd-digital <br />
 **X（Twitter）：** [@adi_ovo](https://x.com/adi_ovo) <br />
-**Mail：** <atuanovo@gmail.com> <br />
+**E-mail：** <email@adiovo.cc> <br />
 
 
 ### 已点亮的技能栏（Technology Stack）
