@@ -25,39 +25,39 @@
 <!-- 下述语法内的样式效果在gh的md是不生效的，主要是使其在adiovo.cc的样式能保持一致~ -->
 <div align="left" style="display: flex;align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://www.npmjs.com" title="npmjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=npm" alt="npm logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://yarnpkg.com/" title="yarn" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://pnpm.io" title="pnpm" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://www.typescriptlang.org" title="TypeScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://cn.vuejs.org" title="Vue.js" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://nuxt.com" title="nuxtjs" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://sass-lang.com" title="sass" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=sass" alt="sass logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://vitejs.dev" title="Vite" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=vite" alt="vite logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://webpack.js.org/" title="webpack" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack logo" style="margin: 0 auto;" /></a>
   <!-- GitHub 访问模式下的Readme内使用skillicons.dev下的icons单行最大显示数量为12个，需要兼容换行的样式 -->
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://gulpjs.com/" title="gulp" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=gulp" alt="gulp logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://www.docker.com/" title="docker" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=docker" alt="docker logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://www.jenkins.io/" title="jenkins" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" style="margin: 0 auto;" /></a>
   <!-- GitHub 全屏下的Readme内使用skillicons.dev下的icons单行最大显示数量为15个，需要兼容换行的样式 -->
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://www.debian.org/" title="Debian Linux" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=debian" alt="debian logo" style="margin: 0 auto;" /></a>
-  <img width="2" style="margin: 0 auto;" />
+  <img width="6" style="margin: 0 auto;" />
   <a href="https://nginx.org/" title="nginx" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx logo" style="margin: 0 auto;" /></a>
 </div>
 
