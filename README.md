@@ -24,9 +24,9 @@
 ### 已点亮的技能栏（Technology Stack）
 <!-- 下述语法内的样式效果在gh的md是不生效的，主要是使其在adiovo.cc的样式能保持一致~ -->
 <div align="left" style="display: flex;align-items: center;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" style="margin: 0 auto;" /></a>
   <img width="6" style="margin: 0 auto;" />
