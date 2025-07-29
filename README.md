@@ -76,5 +76,5 @@
 <br />
 
 <p align="center">这么多靓仔/妹看到了！
-  <img src="https://komarev.com/ghpvc/?username=adiovo&label=😮&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=adiovo&label=😮&style=for-the-badge&base=6000" />
 </p>
