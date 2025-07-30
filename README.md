@@ -5,7 +5,8 @@
 
 <!-- 风格仿[Anthony Fu](https://antfu.me)，基于[Nuxt 3](https://nuxt.com) + [UnoCSS](https://unocss.dev) + [PM 2](https://pm2.keymetrics.io)等技术栈生成部署的SSR应用。 -->
 
-**正在积极寻求一份工作中，若您（贵司）刚好需要招聘前端开发人员，或者有什么好的想法（交流/合作）的话，都可以👇🤝👇**
+**正在积极寻求一份工作中，若您（贵司）刚好需要招聘前端开发人员…<br /> 
+或者有什么好的想法交流/合作的话，都可以👇🤝👇**
 <!-- 如果你有什么好的想法，或者想与我交流的问题意见/合作，可以👇 -->
 
 ### 👇 👇 👇
@@ -75,6 +76,6 @@
 
 <br />
 
-<p align="center">这么多靓仔/妹看到了！
+<p align="center" style="display: flex;align-items: center;">这么多靓仔/妹看到了！
   <img src="https://komarev.com/ghpvc/?username=adiovo&label=😮&style=for-the-badge&base=6000" />
 </p>
