@@ -76,8 +76,8 @@
 
 <br />
 
-<div align="center">
-  <p style="display: flex;align-items: center;">这么多靓仔/妹看到了！
-    <img src="https://komarev.com/ghpvc/?username=adiovo&label=😮&style=for-the-badge&base=6000" />
+<div align="center" style="display: flex;justify-content: center;">
+  <p style="display: flex;">这么多靓仔/妹看到了！
+    <img src="https://komarev.com/ghpvc/?username=adiovo&label=😮&style=for-the-badge&base=6000" style="margin: 0 auto;" />
   </p>
 </div>
