@@ -1,7 +1,7 @@
 ### 我（About me）👋
 自认为算得上一枚合格的计算鸡爱好者，不合格的 ~~Buger~~ FEer～<br /> 
 
-在[博客](https://adiovo.cc)这里会记录我所遇到或正在进行的一些工作或技术上的事情，问题的思考以及日常生活等。
+在[博客](https://adiovo.cc)这里会记录所遇到、正在进行的一些工作或技术上的，问题的思考以及日常生活。
 
 博客风仿[Anthony Fu](https://antfu.me)，基于[Nuxt 3](https://nuxt.com) + [UnoCSS](https://unocss.dev) + [PM 2](https://pm2.keymetrics.io)等技术栈生成部署的SSR应用。
 
