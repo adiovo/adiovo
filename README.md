@@ -1,12 +1,12 @@
 ### 我（About me）👋
 自认为算得上一枚合格的计算鸡爱好者，不合格的 ~~Buger~~ FEer～<br /> 
 
-在[博客](https://adiovo.cc)这里会记录所遇到、正在进行的一些工作或技术上的，问题的思考以及日常生活。
+在这里会记录所遇到、正在进行的一些工作或技术上的，问题的思考以及日常生活。
 
-博客风仿[Anthony Fu](https://antfu.me)，基于[Nuxt 3](https://nuxt.com) + [UnoCSS](https://unocss.dev) + [PM 2](https://pm2.keymetrics.io)等技术栈生成部署的SSR应用。
+<!-- 风格仿[Anthony Fu](https://antfu.me)，基于[Nuxt 3](https://nuxt.com) + [UnoCSS](https://unocss.dev) + [PM 2](https://pm2.keymetrics.io)等技术栈生成部署的SSR应用。 -->
 
 **正在积极寻求一份工作中，若您（贵司）刚好需要招聘前端开发人员，或者有什么好的想法（交流/合作）的话，都可以👇🤝👇**
-<!--如果你有什么好的想法，或者想与我交流的问题意见/合作，可以👇-->
+<!-- 如果你有什么好的想法，或者想与我交流的问题意见/合作，可以👇 -->
 
 ### 👇 👇 👇
 
