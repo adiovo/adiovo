@@ -22,7 +22,7 @@
 **E-mail：** <email@adiovo.cc> <br />
 
 
-### 已点亮的技能栏（Technology Stack）
+### 已点亮的技能栏（Tech Stack）
 <!-- 下述语法内的样式效果在gh的md是不生效的，主要是使其在adiovo.cc的样式能保持一致~ -->
 <div align="left" style="display: flex;align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" style="margin: 0 auto;" /></a>
