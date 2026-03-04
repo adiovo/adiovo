@@ -10,13 +10,12 @@
 
 ### 👇 👇 👇
 
-<!-- install了不少的package，也造了几个业务型的package，希望大家在生活里面，也能有build出自己的Good Life~
-“The Life” program is being build… -->
+<!-- “The Life” program is being build… -->
 
 
 ### 联系方式（Find me）
 **Tencent QQ：** [1990703009](mqqwpa://im/chat?chat_type=wpa&uin=1990703009&version=1&src_type=web&web_src=adiovo.cc) <br />
-**Tencent WeChat：** cd-digital <br />
+**Tencent WeChat：** adiovocn <br />
 **X（Twitter）：** [@adi_ovo](https://x.com/adi_ovo) <br />
 **E-mail：** <email@adiovo.cc> <br />
 
